@@ -4,3 +4,4 @@ groq
 langchain-google-genai
 langgraph
 python-dotenv
+opencv-python-headless
